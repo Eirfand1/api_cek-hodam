@@ -6,11 +6,8 @@
 | Metode  | Endpoint |                 Deskripsi                  |
 | ------- | -------- | ------------------------------------------ |
 | GET     | /khodam  | Mengambil daftar semua user dan khodamnya. |
-| GET     | /khodam  | Mengecek Khodam anda.                      |
+| POST    | /khodam  | Mengecek Khodam anda.                      |
 
-Metode 	Endpoint 	Deskripsi
-GET 	/khodam 	Mengambil daftar semua user dan khodamnya.
-POST 	/khodam 	Mengecek Khodam anda.
 
 Contoh request :
 ```json
