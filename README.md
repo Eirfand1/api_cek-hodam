@@ -2,6 +2,12 @@
 ### URL : http://cek-khodam-api.kesug.com/khodam
 ### Doc : http://cek-khodam-api.kesug.com
 
+
+| Metode  | Endpoint |                 Deskripsi                  |
+| ------- | -------- | ------------------------------------------ |
+| GET     | /khodam  | Mengambil daftar semua user dan khodamnya. |
+| GET     | /khodam  | Mengecek Khodam anda.                      |
+
 Metode 	Endpoint 	Deskripsi
 GET 	/khodam 	Mengambil daftar semua user dan khodamnya.
 POST 	/khodam 	Mengecek Khodam anda.
