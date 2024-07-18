@@ -1,5 +1,5 @@
 # API cek khodam
-## Doc : http://cek-khodam-api.kesug.com/
+## URL : http://cek-khodam-api.kesug.com/khodam
 Contoh return
 
 ```json
